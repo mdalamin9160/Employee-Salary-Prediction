@@ -1,2 +1,11 @@
-# Employee-Salary-Prediction
-Employee Salary Prediction is a machine learning project that estimates an employee’s salary based on factors like experience, education, and job role. It uses Python and regression models to help HR teams make fair, data-driven salary decisions quickly and accurately.
+# Employee Salary Prediction
+
+This project predicts employee salaries based on experience, education, and job role using Python and machine learning.
+
+## Tech Stack
+- Python
+- scikit-learn
+- Pandas, NumPy, Seaborn
+- Jupyter Notebook
+
+
